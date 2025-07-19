@@ -46,3 +46,7 @@ No, he told himself — _looking_ at it, not _reading_ it. Cats can’t read map
 
 As he drove out of town, he decided not to think about it again.  
 He had more important things to think about — like recliners, discount microwaves, and the possibility of a good deal on a new rug.
+
+---
+
+👉 [Next: Scene 2 – Vernon's Day Out](scenes/scene-2.md)

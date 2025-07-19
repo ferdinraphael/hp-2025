@@ -63,3 +63,7 @@ As he entered his driveway, something on his garden wall caught his eye – a ta
 He tried to shoo it away, but it remained still. And instead gave him a firm, almost judgemental look. That was not how cats were supposed to behave.
 
 Despite the day he had, he composed himself as he walked up to the door – determined not to worry his wife with any of this.
+
+---
+
+👉 _Next scene coming soon..._
