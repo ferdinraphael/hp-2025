@@ -24,12 +24,7 @@
         },
         onRouteDidUpdate: function () {
           setTimeout(() => {
-            // Reset scroll on body and HTML elements
-            document.documentElement.scrollTop = 0;
-            document.body.scrollTop = 0;
-            // Also target #main if using Docsify's default layout
-            const main = document.querySelector('#main');
-            if (main) main.scrollTop = 0;
+            window.scrollTo({ top: 0, left: 0, behavior: 'auto' });
           }, 0);
         },
       };
