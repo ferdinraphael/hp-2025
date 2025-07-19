@@ -20,8 +20,13 @@
         scrollToTop: true,
         themeColor: '#9c27b0',
         cache: false,
+        alias: {
+          '/scenes/_sidebar.md': '/_sidebar.md',
+        },
         onRouteDidUpdate: function () {
-          window.scrollTo(0, 0);
+          setTimeout(() => {
+            window.scrollTo({ top: 0, behavior: 'auto' });
+          }, 10);
         },
       };
     </script>
