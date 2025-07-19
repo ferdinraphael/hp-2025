@@ -19,15 +19,27 @@
         subMaxLevel: 2,
         themeColor: '#9c27b0',
         cache: false,
+        scrollToTop: true,
         alias: {
           '/scenes/_sidebar.md': '/_sidebar.md',
         },
-        onRouteDidUpdate: function () {
-          setTimeout(() => {
-            window.scrollTo({ top: 0, left: 0, behavior: 'auto' });
-          }, 0);
-        },
       };
+
+      // Force scroll to top on route change using router
+      window.$docsify.plugins = [
+        function (hook, vm) {
+          hook.doneEach(function () {
+            setTimeout(function () {
+              if (document.scrollingElement) {
+                document.scrollingElement.scrollTop = 0;
+              } else {
+                document.documentElement.scrollTop = 0;
+                document.body.scrollTop = 0;
+              }
+            }, 0);
+          });
+        },
+      ];
     </script>
 
     <style>
