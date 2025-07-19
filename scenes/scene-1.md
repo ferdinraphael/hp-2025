@@ -1,5 +1,6 @@
+# Scene 1: The Dursleys
 
-## Scene 1: The Dursleys
+## Number Four, Privet Drive
 
 The Dursleys took great satisfaction in the fact that nothing remotely out of the ordinary had come to number four, Privet Drive — and they intended to keep it that way.  
 Vernon Dursley liked routine. He liked predictability. And he definitely did not like being surprised. Surprises, he believed, were the breeding ground of chaos.
@@ -18,7 +19,7 @@ Despite being a day off, Vernon had spotted a flyer about a weekend sale for fur
 
 Petunia, who spent more time online than she'd admit, had said, "Why waste a Sunday driving around? We could buy everything online."  
 But Vernon had insisted on going there in person. He didn't trust online reviews, didn't believe in digital discounts, didn't like strange men coming to his house for delivery.  
-In fact, he had even convinced his company to stay out of *that online sale rubbish*.
+In fact, he had even convinced his company to stay out of _that online sale rubbish_.
 
 As Vernon was getting ready, in the kitchen, Petunia was chatting idly on her mobile, while also getting breakfast ready for her son.  
 Her blonde hair, perfectly ironed, was clipped back, and her dressing gown looked freshly pressed.  
@@ -30,7 +31,7 @@ None of them noticed a large, tawny owl flutter past the window.
 
 ## A Curious Sight
 
-After breakfast, Mr. Dursley pecked Mrs. Dursley on the cheek and tried to kiss Dudley goodbye — but missed, as Dudley was in full tantrum mode, throwing his cereal at the walls because his favorite show, *Peppa Pig*, wasn’t playing.  
+After breakfast, Mr. Dursley pecked Mrs. Dursley on the cheek and tried to kiss Dudley goodbye — but missed, as Dudley was in full tantrum mode, throwing his cereal at the walls because his favorite show, _Peppa Pig_, wasn’t playing.  
 As Mr. Dursley left the house, he chortled, “Little tyke,” as though this sort of behavior was completely normal. He got into his car and backed out of number four’s drive.
 
 Something strange caught Vernon’s eye — a cat reading a map.  
@@ -40,8 +41,8 @@ Vernon let out a small sigh of relief. He must have imagined it.
 He frowned — he wasn’t a fan of imagination. He believed it was a complete waste of time: not normal, not useful.
 
 As he drove around the corner, he couldn’t resist another glance at the cat.  
-The cat was now reading the sign that said *Privet Drive*.  
-No, he told himself — *looking* at it, not *reading* it. Cats can’t read maps or signs — this was probably the most absurd thing that had ever crossed his mind.
+The cat was now reading the sign that said _Privet Drive_.  
+No, he told himself — _looking_ at it, not _reading_ it. Cats can’t read maps or signs — this was probably the most absurd thing that had ever crossed his mind.
 
 As he drove out of town, he decided not to think about it again.  
 He had more important things to think about — like recliners, discount microwaves, and the possibility of a good deal on a new rug.
