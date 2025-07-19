@@ -4,20 +4,68 @@
     <meta charset="UTF-8" />
     <title>HP 2025</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Theme toggle will modify this -->
+    <link
+      id="docsify-theme"
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/docsify/themes/dark.css"
+    />
+
     <script>
       window.$docsify = {
         name: 'HP 2025',
-        loadSidebar: '_sidebar.md?v=1',
+        loadSidebar: '_sidebar',
         subMaxLevel: 2,
+        themeColor: '#9c27b0',
       };
     </script>
-    <link
-      rel="stylesheet"
-      href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css"
-    />
   </head>
   <body>
+    <!-- Docsify App -->
     <div id="app">Loading...</div>
+
+    <!-- Toggle Theme Button -->
+    <button
+      onclick="toggleTheme()"
+      style="
+        position: fixed;
+        top: 10px;
+        right: 10px;
+        z-index: 9999;
+        padding: 6px 12px;
+        background: #444;
+        color: #fff;
+        border: none;
+        border-radius: 6px;
+        font-size: 14px;
+        cursor: pointer;
+      "
+    >
+      🌙 Toggle Theme
+    </button>
+
+    <!-- Docsify Script -->
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+
+    <!-- Theme Toggle Script -->
+    <script>
+      const themeLink = document.getElementById('docsify-theme');
+      const currentTheme = localStorage.getItem('theme') || 'light';
+
+      if (currentTheme === 'dark') {
+        themeLink.href = '//cdn.jsdelivr.net/npm/docsify/themes/dark.css';
+      }
+
+      function toggleTheme() {
+        if (themeLink.href.includes('dark')) {
+          themeLink.href = '//cdn.jsdelivr.net/npm/docsify/themes/vue.css';
+          localStorage.setItem('theme', 'light');
+        } else {
+          themeLink.href = '//cdn.jsdelivr.net/npm/docsify/themes/dark.css';
+          localStorage.setItem('theme', 'dark');
+        }
+      }
+    </script>
   </body>
 </html>
