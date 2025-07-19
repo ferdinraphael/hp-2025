@@ -17,7 +17,6 @@
         name: 'HP 2025',
         loadSidebar: true,
         subMaxLevel: 2,
-        scrollToTop: true,
         themeColor: '#9c27b0',
         cache: false,
         alias: {
@@ -25,8 +24,13 @@
         },
         onRouteDidUpdate: function () {
           setTimeout(() => {
-            window.scrollTo({ top: 0, behavior: 'auto' });
-          }, 10);
+            // Reset scroll on body and HTML elements
+            document.documentElement.scrollTop = 0;
+            document.body.scrollTop = 0;
+            // Also target #main if using Docsify's default layout
+            const main = document.querySelector('#main');
+            if (main) main.scrollTop = 0;
+          }, 0);
         },
       };
     </script>
