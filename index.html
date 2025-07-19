@@ -20,8 +20,17 @@
         scrollToTop: true,
         themeColor: '#9c27b0',
         cache: false,
+        onRouteDidUpdate: function () {
+          window.scrollTo(0, 0);
+        },
       };
     </script>
+
+    <style>
+      html {
+        scroll-behavior: smooth;
+      }
+    </style>
   </head>
   <body>
     <!-- Docsify App -->
