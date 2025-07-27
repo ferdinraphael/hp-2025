@@ -66,4 +66,4 @@ Despite the day he had, he composed himself as he walked up to the door – dete
 
 ---
 
-👉 _Next scene coming soon..._
+👉 [Next: Scene 3 – Petunia's Sunday](scenes/scene-3.md)
