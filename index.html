@@ -47,8 +47,31 @@
         scroll-behavior: smooth;
       }
     </style>
+
+    <style>
+      /* Scroll progress bar */
+      #progress-bar {
+        position: fixed;
+        top: 0;
+        left: 0;
+        height: 4px;
+        background: #9c27b0;
+        width: 0%;
+        z-index: 9999;
+        transition: width 0.1s ease-out;
+      }
+
+      /* Book-like serif font for paragraphs */
+      .markdown-section p {
+        font-family: Georgia, 'Times New Roman', serif;
+        font-size: 18px;
+        line-height: 1.6;
+      }
+    </style>
   </head>
   <body>
+    <div id="progress-bar"></div>
+
     <!-- Docsify App -->
     <div id="app">Loading...</div>
 
@@ -93,6 +116,19 @@
           localStorage.setItem('theme', 'dark');
         }
       }
+    </script>
+
+    <script>
+      // Scroll progress bar logic
+      document.addEventListener('scroll', () => {
+        const scrollTop =
+          document.documentElement.scrollTop || document.body.scrollTop;
+        const scrollHeight =
+          document.documentElement.scrollHeight -
+          document.documentElement.clientHeight;
+        const scrolled = (scrollTop / scrollHeight) * 100;
+        document.getElementById('progress-bar').style.width = scrolled + '%';
+      });
     </script>
   </body>
 </html>

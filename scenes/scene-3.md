@@ -45,13 +45,13 @@ She pushed those thoughts out of her mind, switched to Just Eat, and ordered his
 Delivery: 30–60 minutes.  
 In the meanwhile, she plopped him in front of the TV. That would keep him busy.
 
-An hour later, everything was settled. Dudley was happily eating his favorite dessert while watching TV, and Petunia finally had a moment to herself. She walked over to her desk to fetch her tablet — it was time to curate some Dudley posts before lunch. Neighbourhood appearances had to be maintained.
+An hour later, everything was settled. Dudley was happily eating his favorite dessert while watching TV, and Petunia finally had a moment to herself. She walked over to her desk to fetch her iPad — it was time to curate some Dudley posts before lunch. Neighbourhood appearances had to be maintained.
 
-Next to the tablet sat a pale wooden box — made of willow, soft and smooth to the touch.  
+Next to the iPad sat a pale wooden box — made of willow, soft and smooth to the touch.  
 Her hand lingered over it for a moment. The lock was still firm.  
 Distant memories threatened to resurface. But she pushed them down.
 
-Instead, she picked up her tablet and doubled down on perfecting Dudley's next post.  
+Instead, she picked up her iPad and doubled down on perfecting Dudley's next post.  
 It had to be the best one yet.
 
 After lunch, Petunia kept herself busy — changing the sheets, switching out the curtains, tidying up the sofa. Her usual Sunday routine.
@@ -155,7 +155,7 @@ That he wouldn't share whatever else he was still holding back.
 That he would just... let it go.
 
 Fortunately for her, Vernon didn't say another word on the topic.  
-As he went upstairs to bed, Petunia went to her desk to put her tablet down — charging it for the night.  
+As he went upstairs to bed, Petunia went to her desk to put her iPad down — charging it for the night.  
 She glanced at the locked box and firmly placed it into the drawer, out of sight.  
 Tomorrow, everything would be back to normal.
 
@@ -176,4 +176,4 @@ With that comforting thought, he finally drifted to sleep as well.
 
 ---
 
-👉 _Next scene coming soon..._
+👉 [Next: Scene 4 – The Watchful Cat](scenes/scene-4.md)
