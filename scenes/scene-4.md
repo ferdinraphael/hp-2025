@@ -161,7 +161,7 @@ Dumbledore, anticipating the question, nodded. "Yes. That scar is permanent."
 
 Then turning to Hagrid, he asked, "Where did you get that motorcycle?"
 
-    "Young Sirius Black lent it to me, Professor Dumbledore, sir — barely got the chance to thank 'im."
+"Young Sirius Black lent it to me, Professor Dumbledore, sir — barely got the chance to thank 'im."
 
 ---
 
