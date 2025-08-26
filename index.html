@@ -130,5 +130,41 @@
         document.getElementById('progress-bar').style.width = scrolled + '%';
       });
     </script>
+
+    <script>
+      // Prevent auto-count on load; we'll trigger it ourselves for SPA
+      window.goatcounter = { no_onload: true };
+    </script>
+
+    <!-- GoatCounter script -->
+    <script
+      data-goatcounter="https://ferdin.goatcounter.com/count"
+      async
+      src="//gc.zgo.at/count.js"
+    ></script>
+
+    <!-- Count pageviews on every Docsify render (and first load) -->
+    <script>
+      (function () {
+        function count() {
+          if (!window.goatcounter || !window.goatcounter.count) return;
+          window.goatcounter.count({
+            path: location.pathname + location.search + location.hash,
+            title: document.title,
+          });
+        }
+
+        // Initial count once Docsify finishes first render
+        window.$docsify = window.$docsify || {};
+        window.$docsify.plugins = (window.$docsify.plugins || []).concat(
+          function (hook, vm) {
+            hook.doneEach(function () {
+              // Fires after each route render (including first)
+              count();
+            });
+          }
+        );
+      })();
+    </script>
   </body>
 </html>
