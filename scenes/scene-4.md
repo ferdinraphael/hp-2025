@@ -1,4 +1,4 @@
-# Scene 4 – The Watchful Cat
+# Scene 4: The Watchful Cat
 
 ## The Long Day
 
@@ -195,4 +195,4 @@ Wishing him all the best, the cat slipped away down the opposite end of the stre
 
 ---
 
-👉 _Next chapter coming soon..._
+👉 [Next: Chapter 2 – The Vanishing Glass](scenes/scene-5.md)

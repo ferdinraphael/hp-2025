@@ -7,7 +7,7 @@ Vernon Dursley liked routine. He liked predictability. And he definitely did not
 
 The Dursleys had a perfect life, nothing to be ashamed of. Nothing except a very bothersome secret. They tried their best to bury it — to pretend it had never existed at all. No one could find out about the Potters.
 
-Lily Potter was Petunia Dursley's sister, but they hadn't spoken in many years. Mrs. Dursley did everything she could to erase her sister — and her useless husband — from her life.  
+Lily Potter was Petunia Dursley's sister, but they hadn't spoken in many years. Mrs Dursley did everything she could to erase her sister — and her useless husband — from her life.  
 They knew the Potters had a son, about the same age as their son Dudley. And they definitely could not let that boy have any influence over their precious son.
 
 ---
@@ -31,8 +31,8 @@ None of them noticed a large, tawny owl flutter past the window.
 
 ## A Curious Sight
 
-After breakfast, Mr. Dursley pecked Mrs. Dursley on the cheek and tried to kiss Dudley goodbye — but missed, as Dudley was in full tantrum mode, throwing his cereal at the walls because his favorite show, _Peppa Pig_, wasn’t playing.  
-As Mr. Dursley left the house, he chortled, “Little tyke,” as though this sort of behavior was completely normal. He got into his car and backed out of number four’s drive.
+After breakfast, Mr Dursley pecked Mrs Dursley on the cheek and tried to kiss Dudley goodbye — but missed, as Dudley was in full tantrum mode, throwing his cereal at the walls because his favorite show, _Peppa Pig_, wasn’t playing.  
+As Mr Dursley left the house, he chortled, “Little tyke,” as though this sort of behavior was completely normal. He got into his car and backed out of number four’s drive.
 
 Something strange caught Vernon’s eye — a cat reading a map.  
 It took a moment for this to sink in. When he turned to look again, there was a tabby cat, sitting on the corner of the street, staring back at him. There was no map.

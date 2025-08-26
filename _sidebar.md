@@ -5,4 +5,4 @@
   * [Scene 3: Petunia's Sunday](scenes/scene-3.md)
   * [Scene 4: The Watchful Cat](scenes/scene-4.md)
 * **Chapter 2 – The Vanishing Glass**
-  * *(Coming soon)*
+  * [Scene 1: Petunia’s Morning](scenes/scene-5.md)

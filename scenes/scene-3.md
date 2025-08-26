@@ -4,15 +4,15 @@
 
 While Vernon's day had been anything but ordinary, Petunia's day had her own share of the unusual. As usual, she had woken up quite early. Even on Sundays, she couldn't sleep in — keeping the Dursley house in order was her self-appointed duty. She was dressed and downstairs before Vernon woke up.
 
-She had just begun breakfast when her mobile buzzed. It was Mrs. Bletchley — head of the neighborhood watch and a proud guardian of Privet Drive's appearance. Mrs. Bletchley was as obsessed with maintaining order as Petunia was, and the two of them got along splendidly.
+She had just begun breakfast when her mobile buzzed. It was Mrs Bletchley — head of the neighborhood watch and a proud guardian of Privet Drive's appearance. Mrs Bletchley was as obsessed with maintaining order as Petunia was, and the two of them got along splendidly.
 
-Mrs. Bletchley was talking about how one of their neighbours had an overgrown lawn — a black spot, in her view, on the lane's image. She felt such matters could not be overlooked and must be dealt with swiftly.
+Mrs Bletchley was talking about how one of their neighbours had an overgrown lawn — a black spot, in her view, on the lane's image. She felt such matters could not be overlooked and must be dealt with swiftly.
 
-Petunia took a moment to answer. With the phone on speaker and breakfast on the stove, she was wrestling Dudley, now awake, into his high chair. After success, she expressed her agreement. She rarely disagreed; Mrs. Bletchley's ideas were usually quite good. And Petunia believed rules and order were the best defense against anything out of the ordinary.
+Petunia took a moment to answer. With the phone on speaker and breakfast on the stove, she was wrestling Dudley, now awake, into his high chair. After success, she expressed her agreement. She rarely disagreed; Mrs Bletchley's ideas were usually quite good. And Petunia believed rules and order were the best defense against anything out of the ordinary.
 
 There was a time when Petunia had felt differently. But that was a long time ago. She had married Vernon as he was the most ordinary man she had seen. And together, the Dursleys had settled here, in the most uneventful place they could find.
 
-Mrs. Bletchley continued chatting about various important topics — the appropriate colors for house paint, a neighbor's new car, a stray cat roaming the neighborhood today, and other such matters. By the time they hung up, Vernon was already halfway through his breakfast, and Dudley was beginning to have a tantrum — his favorite show, Peppa Pig, had just ended.
+Mrs Bletchley continued chatting about various important topics — the appropriate colors for house paint, a neighbor's new car, a stray cat roaming the neighborhood today, and other such matters. By the time they hung up, Vernon was already halfway through his breakfast, and Dudley was beginning to have a tantrum — his favorite show, Peppa Pig, had just ended.
 
 Once Vernon left for shopping, Petunia was left struggling with Dudley on her own. She preferred ordering online — quicker, quieter, cheaper — but Vernon had not yet embraced the digital world and believed phones were for talking — and nothing else.
 
@@ -58,7 +58,7 @@ After lunch, Petunia kept herself busy — changing the sheets, switching out th
 
 As she adjusted the fresh curtains, she spotted a tabby cat sitting in her driveway — with unusual markings around its eyes.
 
-This must be the stray cat Mrs. Bletchley had mentioned. It seemed to be staring directly at her.  
+This must be the stray cat Mrs Bletchley had mentioned. It seemed to be staring directly at her.  
 Or... maybe at something near the window.  
 Yes, that must be it.  
 There was no reason for a stray cat to sit and watch her.
@@ -80,7 +80,7 @@ And after the day she'd had, she sincerely hoped he would continue to do so.
 
 She just wanted a normal Sunday — was that really too much to ask?
 
-Instead, she started talking about her conversation with Mrs. Bletchley and showed him a few of the posts she had curated of Dudley.  
+Instead, she started talking about her conversation with Mrs Bletchley and showed him a few of the posts she had curated of Dudley.  
 This seemed to settle him, and they had a very normal evening — something they were both quietly grateful for.
 
 After dinner, once Dudley had gone to sleep, Vernon settled in the living room to catch the late news, while Petunia cleaned the kitchen to keep it spotless.  
